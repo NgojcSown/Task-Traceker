@@ -1,6 +1,4 @@
-/* eslint-disable no-undef */
-/* eslint-disable no-unused-vars */
-/* eslint-disable react-hooks/rules-of-hooks */
+
 import React from 'react'
 import { useForm } from 'react-hook-form'
 import axios from 'axios';
